@@ -1,0 +1,16 @@
+C:\Users\Ben\Desktop\Coding\C#\queen-attack\obj\Debug\net5.0\QueenAttack.csprojAssemblyReference.cache
+C:\Users\Ben\Desktop\Coding\C#\queen-attack\obj\Debug\net5.0\QueenAttack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben\Desktop\Coding\C#\queen-attack\obj\Debug\net5.0\QueenAttack.AssemblyInfoInputs.cache
+C:\Users\Ben\Desktop\Coding\C#\queen-attack\obj\Debug\net5.0\QueenAttack.AssemblyInfo.cs
+C:\Users\Ben\Desktop\Coding\C#\queen-attack\obj\Debug\net5.0\QueenAttack.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Desktop\Coding\C#\queen-attack\bin\Debug\net5.0\QueenAttack.exe
+C:\Users\Ben\Desktop\Coding\C#\queen-attack\bin\Debug\net5.0\QueenAttack.deps.json
+C:\Users\Ben\Desktop\Coding\C#\queen-attack\bin\Debug\net5.0\QueenAttack.runtimeconfig.json
+C:\Users\Ben\Desktop\Coding\C#\queen-attack\bin\Debug\net5.0\QueenAttack.runtimeconfig.dev.json
+C:\Users\Ben\Desktop\Coding\C#\queen-attack\bin\Debug\net5.0\QueenAttack.dll
+C:\Users\Ben\Desktop\Coding\C#\queen-attack\bin\Debug\net5.0\ref\QueenAttack.dll
+C:\Users\Ben\Desktop\Coding\C#\queen-attack\bin\Debug\net5.0\QueenAttack.pdb
+C:\Users\Ben\Desktop\Coding\C#\queen-attack\obj\Debug\net5.0\QueenAttack.dll
+C:\Users\Ben\Desktop\Coding\C#\queen-attack\obj\Debug\net5.0\ref\QueenAttack.dll
+C:\Users\Ben\Desktop\Coding\C#\queen-attack\obj\Debug\net5.0\QueenAttack.pdb
+C:\Users\Ben\Desktop\Coding\C#\queen-attack\obj\Debug\net5.0\QueenAttack.genruntimeconfig.cache
